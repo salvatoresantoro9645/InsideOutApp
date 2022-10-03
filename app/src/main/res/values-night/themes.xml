@@ -1,0 +1,73 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.InsideOut" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#07f5c3</item>
+        <item name="colorPrimaryVariant">#b5fced</item> <!-- Third brand color. -->
+        <item name="colorOnPrimary">#04f0ae</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#b0ef2c</item>
+        <item name="colorSecondaryVariant">#e7fac0</item>
+        <item name="colorOnSecondary">#97e81b</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:datePickerStyle">@style/MaterialCalendarCustomStyle</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <!-- Customize color of navigation drawer icon and back arrow -->
+        <item name="colorControlNormal">@color/black</item>
+    </style>
+
+    <style name="MaterialCalendarCustomStyle" parent="@style/ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="android:focusedMonthDateColor">@color/my_green_100</item>
+        <item name="android:calendarTextColor">@android:color/black</item>
+        <!-- Buttons Color-->
+        <item name="colorPrimary">@color/my_azure_100</item>
+        <!--Days unselected Text Color and Month Text Color-->
+        <item name="android:textColorPrimary">@color/black</item>
+        <!--Header Background Color and selected Day Background Color-->
+        <item name="colorAccent">@color/my_green_100</item>
+        <!--Month Background Color-->
+        <item name="daySelectedStyle">@color/black</item>
+        <item name="yearSelectedStyle">@color/black</item>
+        <item name="android:weekDayTextAppearance">@color/black</item>
+        <item name="colorSurface">@android:color/black</item>
+        <item name="colorControlActivated">@color/my_green_100</item>
+        <item name="android:headerBackground">@color/my_green_100</item>
+        <item name="android:weekNumberColor">@color/black</item>
+        <item name="textAppearanceHeadline3">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:dayOfWeekBackground">@color/black</item>
+        <item name="android:dayOfWeekTextAppearance">@color/black</item>
+    </style>
+</resources>
+
+    <!--
+    <style name="Theme.InsideOut" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+<item name="colorPrimary">@color/crane_purple_800</item>
+<item name="colorPrimaryVariant">@color/crane_purple_900</item>
+<item name="colorOnPrimary">@color/crane_purple_700</item>
+<item name="colorSecondary">@color/crane_red</item>
+<item name="colorSecondaryVariant">@color/crane_red</item>
+<item name="colorOnSecondary">@color/crane_red</item>
+<item name="android:statusBarColor" tools:targetApi="l">?attr/colorSecondary</item>
+<item name="android:datePickerStyle">@style/MaterialCalendarCustomStyle</item>
+    </style>
+
+<style name="MaterialCalendarCustomStyle" parent="@style/ThemeOverlay.MaterialComponents.MaterialCalendar">
+<item name="android:focusedMonthDateColor">@color/crane_red</item>
+<item name="android:calendarTextColor">@android:color/white</item>
+<item name="colorPrimary">@color/crane_purple_900</item>
+<item name="android:textColorPrimary">@color/white</item>
+<item name="colorAccent">@color/crane_purple_700</item>
+<item name="daySelectedStyle">@color/white</item>
+<item name="yearSelectedStyle">@color/white</item>
+<item name="colorSurface">@android:color/white</item>
+<item name="colorControlActivated">@color/crane_red</item>
+<item name="android:headerBackground">@color/crane_purple_800</item>
+<item name="textAppearanceHeadline3">@color/white</item>
+<item name="android:textColor">@color/white</item>
+</style>
+    -->

@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_gps.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_gps.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_nomodify_layout.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/dialog_nomodify_layout.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/navigationbar.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/navigationbar.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/music_cardview.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/music_cardview.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_cardview.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/item_cardview.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_music.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_music.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_layout.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/film_cardview.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/film_cardview.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_film.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_film.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/titlebar.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/titlebar.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_note.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_note.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_mood_selection.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_mood_selection.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_action_base.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_action_base.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toast_layout.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/toast_layout.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_show_note.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/fragment_show_note.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/note_cardview.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/note_cardview.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/action_cardview.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/action_cardview.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_mood.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/activity_mood.xml"
+    },
+    {
+        "merged": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_calendar.xml",
+        "source": "/Users/salvatoresantoro/AndroidStudioProjects/InsideOut/app/src/main/res/layout/fragment_calendar.xml"
+    }
+]

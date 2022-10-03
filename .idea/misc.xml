@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/baseline_account_circle_18.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_account_circle_20.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_account_circle_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_calendar_month_20.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_calendar_month_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_home_20.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_home_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_logout_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_navigate_next_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable-v24/baseline_sticky_note_2_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/baseline_account_circle_32.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/baseline_arrow_back_36.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/baseline_note_add_24.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/baseline_place_24.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/card_image.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/circle_profile.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/dialog.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/dialog_drawable.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/gradient_filmcard_drawable.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/gradient_profile_drawable.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/gradient_profile_info_drawable.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/ic_toasticon.xml" value="0.261" />
+        <entry key="app/src/main/res/drawable/image_cardview_1_background.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/image_profile.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/manual_mood_selection_img.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/rectangle.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/show_note_fragment_border.xml" value="0.2985" />
+        <entry key="app/src/main/res/drawable/toast_background.xml" value="0.218" />
+        <entry key="app/src/main/res/drawable/twotone_close_24.xml" value="0.2985" />
+        <entry key="app/src/main/res/layout/action_cardview.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_action_base.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_film.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/layout/activity_gps.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_mood.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_mood_selection.xml" value="0.215625" />
+        <entry key="app/src/main/res/layout/activity_music.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_note.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/alert_dialog_title_material.xml" value="0.3489583333333333" />
+        <entry key="app/src/main/res/layout/back_button_titlebar.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/dialog_layout.xml" value="0.3489583333333333" />
+        <entry key="app/src/main/res/layout/dialog_nomodify_layout.xml" value="0.3489583333333333" />
+        <entry key="app/src/main/res/layout/film_cardview.xml" value="0.3489583333333333" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.21041666666666667" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.24416638484950964" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/fragment_show_note.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/item_cardview.xml" value="0.215625" />
+        <entry key="app/src/main/res/layout/music_cardview.xml" value="0.17447916666666666" />
+        <entry key="app/src/main/res/layout/navigationbar.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/note_cardview.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/titlebar.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/toast.xml" value="0.2557291666666667" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.2703125" />
+        <entry key="app/src/main/res/menu/menu_mood.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_inside_out_round.xml" value="0.2985" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2985" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/image_cardviewA.xml" value="0.207" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

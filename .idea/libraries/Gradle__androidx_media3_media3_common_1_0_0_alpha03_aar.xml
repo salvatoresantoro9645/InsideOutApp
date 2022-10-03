@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media3:media3-common:1.0.0-alpha03@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/55cbc20b12e158dfc58bc5b7310dc8b4/transformed/jetified-media3-common-1.0.0-alpha03/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/38da9d2d3dc2a275868af9b9eef790dc/transformed/media3-common-1.0.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b46fea8d9e17cb7cfb5932f0024c8ba1/transformed/media3-common-1.0.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b4e5a23702b0b51af562d2367cac3056/transformed/jetified-media3-common-1.0.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55cbc20b12e158dfc58bc5b7310dc8b4/transformed/jetified-media3-common-1.0.0-alpha03/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/55cbc20b12e158dfc58bc5b7310dc8b4/transformed/jetified-media3-common-1.0.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55cbc20b12e158dfc58bc5b7310dc8b4/transformed/jetified-media3-common-1.0.0-alpha03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media3/media3-common/1.0.0-alpha03/ff4d9b61d493824985fbcb60b7d9d99da61d8c62/media3-common-1.0.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

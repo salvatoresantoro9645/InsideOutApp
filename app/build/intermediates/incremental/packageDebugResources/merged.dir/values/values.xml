@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="app_color">#07F5C3</color>
+    <color name="black">#FF000000</color>
+    <color name="button_color">#b0ef2c</color>
+    <color name="calendar_fragment_background">@color/my_green_200</color>
+    <color name="crane_purple_700">#720D5D</color>
+    <color name="crane_purple_800">#5D1049</color>
+    <color name="crane_purple_900">#4E0D3A</color>
+    <color name="crane_red">#E30425</color>
+    <color name="hue_azure">#007FFF</color>
+    <color name="hue_green">#00FF00</color>
+    <color name="ic_inside_out_background">#07F5C3</color>
+    <color name="image_anger_green_background">#BDED66</color>
+    <color name="image_disgust_green_background">#BDED66</color>
+    <color name="image_fear_green_background">#BDED66</color>
+    <color name="image_film_green_background">#BDED66</color>
+    <color name="image_gps_green_background">#BDED66</color>
+    <color name="image_hungry_green_background">#BDED66</color>
+    <color name="image_joy_green_background">#BDED66</color>
+    <color name="image_music_green_background">#BDED66</color>
+    <color name="image_note_green_background">#BDED66</color>
+    <color name="image_sorrow_background">#F1FBDA</color>
+    <color name="image_sorrow_green_background">#BDED66</color>
+    <color name="my_azure_100">#07F5C3</color>
+    <color name="my_azure_200">#B5FCED</color>
+    <color name="my_azure_300">#04F0AE</color>
+    <color name="my_green_100">#B0EF2C</color>
+    <color name="my_green_200">#E7FAC0</color>
+    <color name="my_green_300">#97E81B</color>
+    <color name="navigationbar_color">#07F5C3</color>
+    <color name="profile_color">@color/my_green_200</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="advise_for_user">To improve your mood,\nI can advise you to...</string>
+    <string name="app_name">Inside Out</string>
+    <string name="default_web_client_id" translatable="false">380013417947-8jfhjl27c8pl9rumfquvams0kjjg81u8.apps.googleusercontent.com</string>
+    <string name="description_manual_mood_selection">Select your mood between 6 different choices \n(joy, sorrow, surprise, bored, anger, hungry)</string>
+    <string name="description_ml_face_detection">Use a ML api that, after shooting a photo, select your mood for you between 6 different choices \n(joy, sorrow, surprise, bored, anger, hungry)</string>
+    <string name="dialog_message">Do you want to exit without saving\nthe current note?</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_noModify_message">After saving you couldn\'t apply any other changes</string>
+    <string name="dialog_noModify_no">Continue to write</string>
+    <string name="dialog_noModify_title">Are you sure?</string>
+    <string name="dialog_noModify_yes">@string/dialog_saveAndExit</string>
+    <string name="dialog_saveAndExit">Save and exit</string>
+    <string name="dialog_title">Exit Alert</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="gcm_defaultSenderId" translatable="false">380013417947</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJvxjFZ3BVJhPF07WuWGVJIjIjqrG9NJQ</string>
+    <string name="google_app_id" translatable="false">1:380013417947:android:744a4b4643d2e0d1d903fe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJvxjFZ3BVJhPF07WuWGVJIjIjqrG9NJQ</string>
+    <string name="google_storage_bucket" translatable="false">inside-out-1653917127161.appspot.com</string>
+    <string name="gps_current_position">Your Position</string>
+    <string name="gps_place_to_visit">Places to visit</string>
+    <string name="gps_title">Explore some of these\nmarked places...\nIt could be a good thing!</string>
+    <string name="leave_a_note_hint">Leave a Note</string>
+    <string name="leave_a_note_title">Leave a note and save it... \nyou will be able to read in your calendar in the future</string>
+    <string name="ml_new_feature">This feature will be available soon!\nWork in progress...</string>
+    <string name="project_id" translatable="false">inside-out-1653917127161</string>
+    <string name="sign_in_error">Sign in not performed... Try again</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="title_anger_quote">La rabbia è una follia\nmomentanea, quindi controlla\nquesta passione o essa\ncontrollerà te.</string>
+    <string name="title_anger_quote2">Più rabbia verso il passato\nconservi nel tuo cuore,\nmeno capace sei\ndi amare il presente.</string>
+    <string name="title_calendar_fragment">Let\'s review the\nnotes you wrote</string>
+    <string name="title_click_to_join">Click on the button\nto join the world of\nInside Out</string>
+    <string name="title_default_quote">This is the default quote and we want to talk very well with other user.</string>
+    <string name="title_disgust_quote">Attento al disgusto;\n è un altro male incurabile;\nun morto vale più di un vivo disgustato di vivere.</string>
+    <string name="title_fear_quote">L’ora più buia è\nquella che precede\nil sorgere del sole.</string>
+    <string name="title_hungry_quote">La domanda è...\nMangiamo per vivere \noppure\nviviamo per mangiare?</string>
+    <string name="title_joy_quote">L’uomo più felice è\nquello nel cui animo\nnon c’è alcuna traccia di\ncattiveria.</string>
+    <string name="title_manual_mood_selection">Manual Mood Selection</string>
+    <string name="title_ml_face_detection">ML Face Detection</string>
+    <string name="title_name">Inside Out</string>
+    <string name="title_sorrow_quote">I dolori [...] non sono fatti\nper renderci scontenti e\ntoglierci valore e dignità,\nma per maturarci.</string>
+    <string name="title_welcome">Welcome to \nInside Out \napplication</string>
+    <string name="trailer_anger_conspiracy">https://www.youtube.com/watch?v=pYHAgkUn1SM</string>
+    <string name="trailer_anger_fight_club">https://www.youtube.com/watch?v=FEqp8tSh1F4</string>
+    <string name="trailer_anger_la_belva">https://www.youtube.com/watch?v=VIQQPL440yI</string>
+    <string name="trailer_anger_never_back_down">https://www.youtube.com/watch?v=2tc-RPjZRm8</string>
+    <string name="trailer_anger_terapia_d_urto">https://www.youtube.com/watch?v=FbS3CjMzXCs</string>
+    <string name="trailer_disgust_django_unchained">https://www.youtube.com/watch?v=uALPPuJcnGQ</string>
+    <string name="trailer_disgust_il_buco">https://www.youtube.com/watch?v=oQ17YhKLzJU</string>
+    <string name="trailer_disgust_l_amore_infedele">https://www.youtube.com/watch?v=iGwbYXioMhQ</string>
+    <string name="trailer_disgust_perfetti_sconosciuti">https://www.youtube.com/watch?v=Kp8JX3-b9tw</string>
+    <string name="trailer_disgust_the_wolf_of_wall_street">https://www.youtube.com/watch?v=hzG93_Mo-ys</string>
+    <string name="trailer_fear_la_mosca">https://www.youtube.com/watch?v=GX7yL_rA47Q</string>
+    <string name="trailer_fear_non_aprite_quella_porta">https://www.youtube.com/watch?v=-5VnAVx3W_8</string>
+    <string name="trailer_fear_profondo_rosso">https://www.youtube.com/watch?v=55xnS3IIyas</string>
+    <string name="trailer_fear_the_conjuring">https://www.youtube.com/watch?v=qmSkwjZkQ3c</string>
+    <string name="trailer_fear_the_shining">https://www.youtube.com/watch?v=6W0ywX-D-Hg</string>
+    <string name="trailer_hungry_chef_la_ricetta_perfetta">https://www.youtube.com/watch?v=fsJn5JSnh0k</string>
+    <string name="trailer_hungry_il_sapore_del_successo">https://www.youtube.com/watch?v=UoOYr-5Hd74</string>
+    <string name="trailer_hungry_la_fabbrica_di_cioccolato">https://www.youtube.com/watch?v=2CA9C3QDkEo</string>
+    <string name="trailer_hungry_piovono_polpette">https://www.youtube.com/watch?v=sDk-CLKqW4c</string>
+    <string name="trailer_hungry_ratatouille">https://www.youtube.com/watch?v=3ryyshKxAUk</string>
+    <string name="trailer_joy_sole_a_catinelle">https://www.youtube.com/watch?v=5OdkqSQGyzc&amp;t=23s</string>
+    <string name="trailer_joy_ti_presento_i_miei">https://www.youtube.com/watch?v=0uIWe_DLK_4</string>
+    <string name="trailer_joy_una_notte_sa_leoni">https://www.youtube.com/watch?v=Y3Wv824Ndv4</string>
+    <string name="trailer_joy_una_settimana_da_dio">https://www.youtube.com/watch?v=LXde_UjuzhQ</string>
+    <string name="trailer_joy_yes_man">https://www.youtube.com/watch?v=im2zMrInSuo</string>
+    <string name="trailer_sorrow_hachiko">https://www.youtube.com/watch?v=CiT-aQ-GfOo</string>
+    <string name="trailer_sorrow_la_ricerca_della_felicita">https://www.youtube.com/watch?v=KX_-rtjlOoA</string>
+    <string name="trailer_sorrow_le_pagine_della_nostra_vita">https://www.youtube.com/watch?v=DZXT4wox6ng</string>
+    <string name="trailer_sorrow_shindler_s_list">https://www.youtube.com/watch?v=SW4eNdZXl7Q</string>
+    <string name="trailer_sorrow_titanic">https://www.youtube.com/watch?v=IhTpfdA8EJU</string>
+    <style name="Icon_Only_Button" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="iconPadding">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:minWidth">36dp</item>
+        <item name="android:minHeight">36dp</item>
+    </style>
+    <style name="MaterialCalendarCustomStyle" parent="@style/ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="android:focusedMonthDateColor">@color/my_green_100</item>
+        <item name="android:calendarTextColor">@android:color/black</item>
+        <!-- Buttons Color-->
+        <item name="colorPrimary">@color/my_azure_100</item>
+        <!--Days unselected Text Color and Month Text Color-->
+        <item name="android:textColorPrimary">@color/black</item>
+        <!--Header Background Color and selected Day Background Color-->
+        <item name="colorAccent">@color/my_green_100</item>
+        <!--Month Background Color-->
+        <item name="daySelectedStyle">@color/black</item>
+        <item name="yearSelectedStyle">@color/black</item>
+        <item name="android:weekDayTextAppearance">@color/black</item>
+        <item name="colorSurface">@android:color/black</item>
+        <item name="colorControlActivated">@color/my_green_100</item>
+        <item name="android:headerBackground">@color/my_green_100</item>
+        <item name="android:weekNumberColor">@color/black</item>
+        <item name="textAppearanceHeadline3">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:dayOfWeekBackground">@color/black</item>
+        <item name="android:dayOfWeekTextAppearance">@color/black</item>
+    </style>
+    <style name="MaterialCalendarTheme" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <!-- just override the colors used in the default style -->
+        <item name="colorOnPrimary">@color/design_default_color_error</item>
+        <item name="colorPrimary">@color/teal_200</item>
+    </style>
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/black</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/dialog_drawable</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">20%</item>
+    </style>
+    <style name="Theme.InsideOut" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#07f5c3</item>
+        <item name="colorPrimaryVariant">#b5fced</item> <!-- Third brand color. -->
+        <item name="colorOnPrimary">#04f0ae</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#b0ef2c</item>
+        <item name="colorSecondaryVariant">#e7fac0</item>
+        <item name="colorOnSecondary">#97e81b</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:datePickerStyle">@style/MaterialCalendarCustomStyle</item>
+    </style>
+    <style name="Theme.InsideOut.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.InsideOut.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.InsideOut.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <!-- Customize color of navigation drawer icon and back arrow -->
+        <item name="colorControlNormal">@color/black</item>
+    </style>
+</resources>

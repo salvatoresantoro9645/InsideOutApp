@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Inside Out</string>
+    <string name="title_name">Inside Out</string>
+    <string name="title_welcome">Welcome to \nInside Out \napplication</string>
+    <string name="title_click_to_join">Click on the button\nto join the world of\nInside Out</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_in_error">Sign in not performed... Try again</string>
+    <string name="title_manual_mood_selection">Manual Mood Selection</string>
+    <string name="description_manual_mood_selection">Select your mood between 6 different choices \n(joy, sorrow, surprise, bored, anger, hungry)</string>
+    <string name="title_ml_face_detection">ML Face Detection</string>
+    <string name="description_ml_face_detection">Use a ML api that, after shooting a photo, select your mood for you between 6 different choices \n(joy, sorrow, surprise, bored, anger, hungry)</string>
+    <string name="title_calendar_fragment">Let\'s review the\nnotes you wrote</string>
+    <string name="advise_for_user">To improve your mood,\nI can advise you to...</string>
+    <string name="leave_a_note_title">Leave a note and save it... \nyou will be able to read in your calendar in the future</string>
+    <string name="leave_a_note_hint">Leave a Note</string>
+    <string name="ml_new_feature">This feature will be available soon!\nWork in progress...</string>
+
+    <!-- GPS Activity -->
+    <string name="gps_title">Explore some of these\nmarked places...\nIt could be a good thing!</string>
+    <string name="gps_current_position">Your Position</string>
+    <string name="gps_place_to_visit">Places to visit</string>
+
+    <!-- Dialog Save Note-->
+    <string name="dialog_title">Exit Alert</string>
+    <string name="dialog_message">Do you want to exit without saving\nthe current note?</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_saveAndExit">Save and exit</string>
+
+    <!-- Dialog Save Note-->
+    <string name="dialog_noModify_title">Are you sure?</string>
+    <string name="dialog_noModify_message">After saving you couldn\'t apply any other changes</string>
+    <string name="dialog_noModify_no">Continue to write</string>
+    <string name="dialog_noModify_yes">@string/dialog_saveAndExit</string>
+
+    <!-- Quotes to insert inside "frame for quotes" in MoodActivity -->
+    <string name="title_default_quote">This is the default quote and we want to talk very well with other user.</string>
+    <string name="title_joy_quote">L’uomo più felice è\nquello nel cui animo\nnon c’è alcuna traccia di\ncattiveria.</string>
+    <string name="title_sorrow_quote">I dolori [...] non sono fatti\nper renderci scontenti e\ntoglierci valore e dignità,\nma per maturarci.</string>
+    <string name="title_anger_quote">La rabbia è una follia\nmomentanea, quindi controlla\nquesta passione o essa\ncontrollerà te.</string>
+    <string name="title_anger_quote2">Più rabbia verso il passato\nconservi nel tuo cuore,\nmeno capace sei\ndi amare il presente.</string>
+    <string name="title_disgust_quote">Attento al disgusto;\n è un altro male incurabile;\nun morto vale più di un vivo disgustato di vivere.</string>
+    <string name="title_fear_quote">L’ora più buia è\nquella che precede\nil sorgere del sole.</string>
+    <string name="title_hungry_quote">La domanda è...\nMangiamo per vivere \noppure\nviviamo per mangiare?</string>
+
+
+    <!-- Uri trailer films -->
+    <!-- JOY Films-->
+    <string name="trailer_joy_yes_man">https://www.youtube.com/watch?v=im2zMrInSuo</string>
+    <string name="trailer_joy_ti_presento_i_miei">https://www.youtube.com/watch?v=0uIWe_DLK_4</string>
+    <string name="trailer_joy_sole_a_catinelle">https://www.youtube.com/watch?v=5OdkqSQGyzc&amp;t=23s</string>
+    <string name="trailer_joy_una_notte_sa_leoni">https://www.youtube.com/watch?v=Y3Wv824Ndv4</string>
+    <string name="trailer_joy_una_settimana_da_dio">https://www.youtube.com/watch?v=LXde_UjuzhQ</string>
+
+    <!-- SORROW Films-->
+    <string name="trailer_sorrow_la_ricerca_della_felicita">https://www.youtube.com/watch?v=KX_-rtjlOoA</string>
+    <string name="trailer_sorrow_hachiko">https://www.youtube.com/watch?v=CiT-aQ-GfOo</string>
+    <string name="trailer_sorrow_titanic">https://www.youtube.com/watch?v=IhTpfdA8EJU</string>
+    <string name="trailer_sorrow_le_pagine_della_nostra_vita">https://www.youtube.com/watch?v=DZXT4wox6ng</string>
+    <string name="trailer_sorrow_shindler_s_list">https://www.youtube.com/watch?v=SW4eNdZXl7Q</string>
+
+    <!-- ANGER Films-->
+    <string name="trailer_anger_terapia_d_urto">https://www.youtube.com/watch?v=FbS3CjMzXCs</string>
+    <string name="trailer_anger_never_back_down">https://www.youtube.com/watch?v=2tc-RPjZRm8</string>
+    <string name="trailer_anger_fight_club">https://www.youtube.com/watch?v=FEqp8tSh1F4</string>
+    <string name="trailer_anger_conspiracy">https://www.youtube.com/watch?v=pYHAgkUn1SM</string>
+    <string name="trailer_anger_la_belva">https://www.youtube.com/watch?v=VIQQPL440yI</string>
+
+    <!-- DISGUST Films-->
+    <string name="trailer_disgust_perfetti_sconosciuti">https://www.youtube.com/watch?v=Kp8JX3-b9tw</string>
+    <string name="trailer_disgust_django_unchained">https://www.youtube.com/watch?v=uALPPuJcnGQ</string>
+    <string name="trailer_disgust_l_amore_infedele">https://www.youtube.com/watch?v=iGwbYXioMhQ</string>
+    <string name="trailer_disgust_il_buco">https://www.youtube.com/watch?v=oQ17YhKLzJU</string>
+    <string name="trailer_disgust_the_wolf_of_wall_street">https://www.youtube.com/watch?v=hzG93_Mo-ys</string>
+
+    <!-- FEAR Films-->
+    <string name="trailer_fear_the_conjuring">https://www.youtube.com/watch?v=qmSkwjZkQ3c</string>
+    <string name="trailer_fear_the_shining">https://www.youtube.com/watch?v=6W0ywX-D-Hg</string>
+    <string name="trailer_fear_non_aprite_quella_porta">https://www.youtube.com/watch?v=-5VnAVx3W_8</string>
+    <string name="trailer_fear_profondo_rosso">https://www.youtube.com/watch?v=55xnS3IIyas</string>
+    <string name="trailer_fear_la_mosca">https://www.youtube.com/watch?v=GX7yL_rA47Q</string>
+
+    <!-- HUNGRY Films-->
+    <string name="trailer_hungry_piovono_polpette">https://www.youtube.com/watch?v=sDk-CLKqW4c</string>
+    <string name="trailer_hungry_chef_la_ricetta_perfetta">https://www.youtube.com/watch?v=fsJn5JSnh0k</string>
+    <string name="trailer_hungry_il_sapore_del_successo">https://www.youtube.com/watch?v=UoOYr-5Hd74</string>
+    <string name="trailer_hungry_ratatouille">https://www.youtube.com/watch?v=3ryyshKxAUk</string>
+    <string name="trailer_hungry_la_fabbrica_di_cioccolato">https://www.youtube.com/watch?v=2CA9C3QDkEo</string>
+
+</resources>
