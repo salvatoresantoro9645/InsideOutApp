@@ -1,4 +1,4 @@
-# InsideOutApp
+# Inside Out App
 An Android App for users who had a specific mood and want to perform some action to improve it
 
 # Why I've developed it
