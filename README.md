@@ -70,7 +70,7 @@ Most relevant are:
           "https://user-images.githubusercontent.com/81512899/193647585-417a3d18-00f0-47e3-a469-f888ed620dcf.png"
           "https://user-images.githubusercontent.com/81512899/193649635-18c8bd31-44ab-4d36-8665-046edcde7bf3.png"
 
-# WARNING!!!
+# WARNING
 This project can contain errors and some bad practices in developing an android app!
 It was my first experience and I've got a lot to improve on this.
 Remember: "You learn by making mistakes."
