@@ -63,7 +63,7 @@ Most relevant are:
                  Custom dialogs to handle action when clicking various button (TitleBar backbutton, onBackPressed, "Save Note" button).
                  Saved notes are readable in Calendar Fragment clicking show note for a date.
                
-# NAVIGATION FLOW OF INSIDE OUT APP          
+# Navigation flow of Inside Out app         
   Clicking the next two links with references to two images can find the navigation flow of the app,
   showing all the screens of the app and their links due to clicks.
           
