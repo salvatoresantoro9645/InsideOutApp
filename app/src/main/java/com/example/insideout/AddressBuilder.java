@@ -7,7 +7,7 @@ import java.net.URLEncoder;
 
 public class AddressBuilder {
 
-    private static final String MAPS_API_KEY = "AIzaSyCFrS4euLy9Vo7slVxjJSd5ZRjjdJs84KE";
+    private static final String MAPS_API_KEY = "***********************";
     String mood;
 
     public AddressBuilder(String mood){
